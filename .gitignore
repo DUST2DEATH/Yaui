@@ -1,47 +1,35 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+/*
+!/Data
+/Data/Bundles
+/Data/Prefabs
+/Data/Prefabs - Vanilla
+/Data/UMATextures
+/Data/Worlds
+!/Mods
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+/Data/Config/archetypes.xml
+/Data/Config/biomes.xml
+/Data/Config/blocks.xml
+/Data/Config/buffs.xml
+/Data/Config/entityclasses.xml
+/Data/Config/entitygroups.xml
+/Data/Config/gamestages.xml
+/Data/Config/items.xml
+/Data/Config/Localization - Quest.txt
+/Data/Config/Localization.txt
+/Data/Config/loot.xml
+/Data/Config/materials.xml
+/Data/Config/misc.xml
+/Data/Config/npc.xml
+/Data/Config/physicsbodies.xml
+/Data/Config/progression.xml
+/Data/Config/qualityinfo.xml
+/Data/Config/quests.xml
+/Data/Config/recipes.xml
+/Data/Config/rwgmixer.xml
+/Data/Config/sounds.xml
+/Data/Config/spawning.xml
+/Data/Config/traders.xml
+/Data/Config/vehicles.xml
+/Data/Config/weathersurvival.xml
+/Data/Config/XML.txt
