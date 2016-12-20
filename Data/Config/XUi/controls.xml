@@ -186,7 +186,7 @@
 	<toolbelthud>
 		<rect controller="ItemStack" style="huditemStack, hover">
 			<sprite depth="3" name="background" sprite="menu_empty3px" width="73" height="73" color="[darkGrey]" type="sliced" globalopacity="true" fillcenter="false"/>
-			<sprite depth="2" name="highlightOverlay" width="1" height="1" color="0,0,0,1" pos="35,-35" type="sliced" pivot="center"/>
+			<sprite depth="2" name="highlightOverlay" width="1" height="1" color="0,0,0,1" pos="9999,9999" type="sliced" pivot="center"/>
 
 			<sprite depth="4" name="itemIcon" width="70" height="50" atlas="ItemIconAtlas" sprite="{itemicon}" pos="35,-30" pivot="center" foregroundlayer="true" color="{iconcolor}" />
 			<sprite depth="8" name="lockTypeIcon" width="24" height="24" sprite="" pos="2,-2" foregroundlayer="true"/>

@@ -6,6 +6,7 @@
 /Data/UMATextures
 /Data/Worlds
 !/Mods
+!/Patches
 
 /Data/Config/archetypes.xml
 /Data/Config/biomes.xml
